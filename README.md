@@ -46,7 +46,8 @@ password: Admin123!<br>
 * The HelpFiles folder contains all of the text files that describe each functionality. This is where the descriptions from the help function and version are pulled from.<br><br>
 * Files with .techos file extensions are used to simulate pcb (process control blocks). Processes are run through execute.c (written and given to us by the professor) to simulate different ready, blocked, and suspended processes.<br><br>
 * User login info is stored in the user_info file. The passwords are hashed for extra security. The hash used is just a simple xor. The hashed key is stored in the header.h file. Each user has a access level, username and hashed password. <br><br>
-* Commands are not case sensitive and whitespace is ignored.
+* Commands are not case sensitive and whitespace is ignored.<br><br>
+* To see all users, passwords and levels at login screen, uncomment line 1449 in backend.c. This helped us a ton during our debugging sessions.
 
 <hr>
 
