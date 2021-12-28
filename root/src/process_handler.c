@@ -1,3 +1,10 @@
+/*
+    Nicolas Null, John Morgan and Jeremy Meadows
+    Published Fall 2021
+    process_handler.c
+
+    This file will have all of the backbone functions for anything having to do with pcbs and processes
+*/
 #include "header.h"
 
 //function to allocate memory to a pcb pointer and return if successful and return NULL if not

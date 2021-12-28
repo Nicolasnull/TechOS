@@ -1,5 +1,12 @@
+/*
+    Nicolas Null, John Morgan and Jeremy Meadows
+    Published Fall 2021
+    queue.c
+
+    We implemented both a priority queue and a regular queue to handle the queues required for process handling
+*/
+
 #include "header.h"
-// implement queue here
 
 // initializes a queue
 void initialize_queue(struct queue * q)

@@ -1,7 +1,6 @@
 /*
     Nicolas Null, John Morgan and Jeremy Meadows
-    OS Project part 5
-    Due December 7, 2021
+    Published Fall 2021
     login.c
 
     This file will be used to store all of the methods reguarding

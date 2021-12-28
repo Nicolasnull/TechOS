@@ -1,7 +1,6 @@
 /*
     Nicolas Null, John Morgan and Jeremy Meadows
-    OS Project part 5
-    Due December 7, 2021
+    Published Fall 2021
     header.h
 
     The header file will be used to declare all of the

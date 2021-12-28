@@ -1,7 +1,6 @@
 /*
     Nicolas Null, John Morgan and Jeremy Meadows
-    OS Project part 5
-    Due December 7, 2021
+    Published Fall 2021
     backend.c
 
     This file will be used to handle all of the backend

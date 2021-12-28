@@ -1,3 +1,5 @@
+// This file was provided to us by the course instructor. We did not write the following code
+
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>

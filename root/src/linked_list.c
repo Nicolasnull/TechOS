@@ -1,3 +1,12 @@
+/*
+    Nicolas Null, John Morgan and Jeremy Meadows
+    Published Fall 2021
+    linked_list.c
+
+    We handled users by adding them into a linked list.
+    We created our own linked list to handle user info.
+*/
+
 #include "header.h"
 
 // initializes a linked list
