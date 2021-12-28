@@ -22,7 +22,7 @@ This system is a menu driven OS that has a list of commands that users can choos
 <li>Environment: gcc version 11.2.1 20210728 (Red Hat 11.2.1-1) (GCC)</li>
 </ul>
 
-<b>Part of the project allows for creation of files and folders. The root folder should be the farthest users can get to though our OS (ie they TechOS should not be able to create files above that directory). This does force our actual source code to be slightly buried but it can be found in the src folder.</b>
+<b>Part of the project allows for creation of files and folders. The root folder should be the farthest users can get to though our OS (ie TechOS should not be able to create files above that directory). This does force our actual source code to be slightly buried but it can be found in the src folder.</b>
 
 ### In order to run:
 <ol>
